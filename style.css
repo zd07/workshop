@@ -196,6 +196,10 @@
     font-size: 18px;
     border: 1px solid black;
 }
+.nav-2 ul li:nth-child(1){
+   background-color: #002868;
+    color:white;
+}
 .nav-2 ul li:hover{
 
     background-color: #002868;
